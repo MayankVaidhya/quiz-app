@@ -1,0 +1,42 @@
+export const data = [
+    {
+        question: "What does CPU stand for?",
+        option1: "Central Processing Unit",
+        option2: "Computer Personal Unit",
+        option3: "Central Process Unit",
+        option4: "Central Processor Unit",
+        ans: 1,
+    },
+    {
+        question: "Which of the following is a programming language?",
+        option1: "HTML",
+        option2: "JPEG",
+        option3: "MP3",
+        option4: "Python",
+        ans: 4,
+    },
+    {
+        question: "What does RAM stand for?",
+        option1: "Random Access Memory",
+        option2: "Read-Only Memory",
+        option3: "Real-time Access Memory",
+        option4: "Randomly Accessed Memory",
+        ans: 1,
+    },
+    {
+        question: "What is the purpose of an operating system?",
+        option1: "To manage hardware resources",
+        option2: "To run application software",
+        option3: "To provide a user interface",
+        option4: "All of the above",
+        ans: 4,
+    },
+    {
+        question: "Which of the following is a storage device?",
+        option1: "CPU",
+        option2: "GPU",
+        option3: "SSD",
+        option4: "RAM",
+        ans: 3,
+    },
+]
